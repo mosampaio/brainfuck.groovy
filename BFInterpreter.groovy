@@ -1,5 +1,3 @@
-package br.com.mosampaio.bf
-
 import static Character.MIN_CODE_POINT
 
 class BFInterpreter {
