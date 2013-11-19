@@ -11,4 +11,4 @@ Brainfuck is an esoteric programming language noted for its extreme minimalism. 
 How to use?
 ===============
 
-Just run with `./groovy BFInterpreter.groovy here_your_bf_code`
+Just run with `groovy BFInterpreter.groovy here_your_bf_code`
