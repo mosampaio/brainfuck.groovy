@@ -24,6 +24,7 @@ class BFInterpreter {
           break
         case "<":
           if (pointer == 0) throw new NullPointerException("Pointer out of range")
+          pointer--
           break
         case "+":
           cells[pointer]++
