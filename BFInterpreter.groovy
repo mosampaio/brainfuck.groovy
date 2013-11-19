@@ -16,7 +16,7 @@ class BFInterpreter {
       }
       switch(input[count]) {
         case ".":
-          println (cells[pointer])
+          println Character.toString((char)cells[pointer])
           break
         case ">":
           pointer++
